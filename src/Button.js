@@ -33,7 +33,7 @@ const SIZES = {
 };
 
 const StyledButton = styled.button`
-  border: 10px solid red;
+  border: 10px solid green;
   border-radius: 3em;
   cursor: pointer;
   display: inline-block;
@@ -52,7 +52,7 @@ const StyledButton = styled.button`
   margin: 0;
   background: transparent;
 
-  font-size: 20px;
+  font-size: 21px;
   font-weight: ${typography.weight.extrabold};
   line-height: 1;
 
